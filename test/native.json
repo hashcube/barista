@@ -19,6 +19,7 @@
 		"gl",
 		"localStorage",
 		"sound",
+		"fbapi",
 		"overlay",
 		"contacts",
 		"alerts",

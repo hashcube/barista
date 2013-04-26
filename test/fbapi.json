@@ -1,0 +1,15 @@
+{
+	"type": "objectTemplate",
+	"name": "fbapi",
+	"methods": [
+		"logger",
+		"getName",
+		"ogCall",
+		"getPic",
+		"inviteFriends",
+		"getGameFriends",
+		"getFriends",
+		"logout",
+		"login"
+	]
+}
